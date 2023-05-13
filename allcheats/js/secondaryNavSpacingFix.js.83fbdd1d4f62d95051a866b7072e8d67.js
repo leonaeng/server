@@ -1,0 +1,1 @@
+ips.controller.mixin("secondaryNavSpacingFix","core.front.core.navBar",!0,(function(){this.around("_mushMenu",(function(n,o,i){0==i&&(i=280),n(o,i)}))}));

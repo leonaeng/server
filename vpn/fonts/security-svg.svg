@@ -1,0 +1,37 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88" width="88" height="88">
+	<title>security-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M7.5 0L79.5 0L79.5 88L7.5 88L7.5 0Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="43.5" y1="27.517" x2="43.5" y2="38.514">
+			<stop offset="0" stop-color="#3fd6d3"  />
+			<stop offset="1" stop-color="#33b0b5"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="43.5" y1="0" x2="43.5" y2="88">
+			<stop offset="0" stop-color="#3fd6d3"  />
+			<stop offset="1" stop-color="#33b0b5"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="43.496" y1="46.759" x2="43.496" y2="52.26">
+			<stop offset="0" stop-color="#3fd6d3"  />
+			<stop offset="1" stop-color="#33b0b5"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none } 
+		.shp1 { fill: url(#grd1) } 
+		.shp2 { fill: url(#grd2) } 
+		.shp3 { fill: url(#grd3) } 
+	</style>
+	<path id="security" class="shp0" d="M7.5 0L79.5 0L79.5 88L7.5 88L7.5 0Z" />
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="shp1" d="M43.5 27.52C46.27 27.52 48.54 29.99 48.54 33.01L48.54 38.51L38.46 38.51L38.46 33.01C38.46 29.99 40.73 27.52 43.5 27.52L43.5 27.52Z" />
+				<path id="Layer" fill-rule="evenodd" class="shp2" d="M75.92 0.55C77.66 1.48 78.78 3.4 78.78 5.52L78.78 49.51C78.78 66.74 66.12 81.06 44.9 87.78C44.44 87.93 43.97 88 43.5 88C43.03 88 42.55 87.92 42.1 87.78C20.88 81.06 8.22 66.74 8.22 49.51L8.22 5.52C8.21 4.48 8.47 3.46 8.98 2.58C9.48 1.7 10.2 0.99 11.06 0.54C11.92 0.09 12.88 -0.08 13.82 0.04C14.77 0.16 15.67 0.57 16.41 1.22C22.69 6.74 34.03 6.74 40.33 1.22C41.23 0.44 42.34 0.01 43.49 0.01C44.64 0.01 45.76 0.44 46.65 1.22C52.93 6.74 64.27 6.74 70.58 1.22C71.32 0.57 72.21 0.17 73.16 0.05C74.1 -0.07 75.06 0.11 75.92 0.55ZM58.62 55.01L58.62 44.01C58.62 40.97 56.37 38.52 53.58 38.52L53.58 33.01C53.58 30.1 52.52 27.3 50.63 25.24C48.74 23.18 46.17 22.02 43.5 22.02C40.83 22.02 38.27 23.18 36.38 25.24C34.49 27.3 33.42 30.09 33.42 33.01L33.42 38.51C30.63 38.51 28.38 40.97 28.38 44.01L28.38 55.01C28.38 58.05 30.63 60.5 33.42 60.5L53.58 60.5C56.37 60.5 58.62 58.05 58.62 55.01Z" />
+				<path id="Layer" class="shp3" d="M45.28 47.57C45.75 48.08 46.02 48.78 46.02 49.51C46.02 51.03 44.88 52.26 43.5 52.26C42.11 52.26 40.97 51.02 40.97 49.51C40.98 48.78 41.24 48.08 41.72 47.57C42.19 47.05 42.83 46.76 43.5 46.76C44.16 46.76 44.8 47.05 45.28 47.57Z" />
+			</g>
+		</g>
+	</g>
+</svg>

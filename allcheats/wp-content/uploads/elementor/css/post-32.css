@@ -1,0 +1,15 @@
+.elementor-32 .elementor-element.elementor-element-7ec47a2{margin-top:0px;margin-bottom:-21px;}.elementor-32 .elementor-element.elementor-element-2dbac0f .bdt-icon-nav .bdt-icon-nav-branding{margin-bottom:100px;}.elementor-32 .elementor-element.elementor-element-2dbac0f .bdt-icon-nav .bdt-icon-nav-container{width:48px;padding-top:80px;background-color:#DC3545;}body:not(.bdt-offcanvas-flip) #bdt-offcanvas2dbac0f.bdt-offcanvas.bdt-icon-nav-left{left:48px;}body.bdt-offcanvas-flip #bdt-offcanvas2dbac0f.bdt-offcanvas.bdt-icon-nav-right{right:48px;}#bdt-offcanvas2dbac0f.bdt-offcanvas .bdt-offcanvas-bar{padding-top:calc(80px + 100px + 50px);background-color:var( --e-global-color-830da5f );}.elementor-32 .elementor-element.elementor-element-2dbac0f .bdt-icon-nav-container ul.bdt-icon-nav.bdt-icon-nav-vertical li + li{margin-top:5px;}.elementor-32 .elementor-element.elementor-element-2dbac0f .bdt-icon-nav .bdt-icon-nav-icon-wrapper .bdt-icon-nav-icon{font-size:16px;}.tippy-box[data-theme="bdt-tippy-2dbac0f"]{background-color:var( --e-global-color-830da5f );color:var( --e-global-color-a069de1 );border-radius:25px 25px 25px 25px;font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:400;}.tippy-box[data-theme="bdt-tippy-2dbac0f"] .tippy-arrow{color:#14171C00;}#bdt-offcanvas2dbac0f.bdt-offcanvas .bdt-offcanvas-bar *{color:var( --e-global-color-a069de1 );}#bdt-offcanvas2dbac0f.bdt-offcanvas .bdt-offcanvas-bar ul > li a{color:var( --e-global-color-a069de1 );}#bdt-offcanvas2dbac0f.bdt-offcanvas .bdt-offcanvas-bar a *{color:var( --e-global-color-a069de1 );}#bdt-offcanvas2dbac0f.bdt-offcanvas .bdt-offcanvas-bar ul > li a:hover{color:var( --e-global-color-9cb64d6 );}#bdt-offcanvas2dbac0f.bdt-offcanvas .bdt-offcanvas-bar ul > li.bdt-active a:before{background-color:#DC354500;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}/* Start custom CSS for bdt-iconnav, class: .elementor-element-2dbac0f */ul#bdt-navmenu {
+    column-count: 2;
+    font-family: 'Montserrat';
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#bdt-offcanvas2dbac0f.bdt-offcanvas .bdt-offcanvas-bar * {
+    border: 0px;
+}
+
+.bdt-nav li>a {
+    display: block;
+    text-align: center !important;
+}/* End custom CSS */
